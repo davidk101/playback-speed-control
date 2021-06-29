@@ -12,5 +12,8 @@
         "content.js"
       ]
     }
-  ]
+  ],
+  "icons": {
+        "128": "icon.png"
+      }
 }
