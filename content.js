@@ -94,7 +94,7 @@ let observer = new MutationObserver(function (mutations) {
                                 if (video === undefined) {
                                     return
                                 }
-                                if (video.playbackRate === 2) {
+                                if (video.playbackRate === 3) {
                                     return;
                                 }
                                 video.playbackRate += .25;
